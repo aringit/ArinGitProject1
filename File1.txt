@@ -1,1 +1,3 @@
-tis the first file for GIT
+This is the first file for GIT
+
+I am a Solution Architect
